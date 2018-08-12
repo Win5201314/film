@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainColor">#FF4081</color>
+    <color name="colorPrimary">@color/mainColor</color>
+    <color name="colorPrimaryDark">@color/mainColor</color>
+    <color name="colorAccent">@color/mainColor</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#f3f2f2</color>
+    <color name="black">#000000</color>
+    <color name="gray">#9e9b9b</color>
+    <color name="title_color">#747272</color>
+    <color name="btn_green">#7fc369</color>
+    <color name="pressed_state">#ece6e6</color>
+    <color name="main_fragment">#747272</color>
+</resources>
